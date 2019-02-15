@@ -2,11 +2,9 @@
 
 A web application where 
 
-**Technologies:** HTML,CSS,JavaScript.
+**Technologies:** HTML, CSS, JavaScript.
 
-# Production Screenshots:
+# Demo:
 
-## Login Screen
- 
-![](Screenshots/Login.png)
+<img src = "demo.gif">
 
