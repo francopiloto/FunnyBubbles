@@ -1,8 +1,11 @@
-### FunnyBubbles
+## FunnyBubbles
 
-A web application where 
+Implementation of a simple particle system to simulate an explosion of colored bubbles.
 
-**Technologies:** HTML, CSS, JavaScript.
+## Technologies:
+* HTML
+* CSS
+* JavaScript
 
 # Demo:
 
